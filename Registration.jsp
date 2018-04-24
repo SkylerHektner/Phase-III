@@ -6,6 +6,7 @@
 <title>U Uber Interactive</title>
 <link rel="stylesheet" type="text/css" href="css/main.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<%@ page import = "java/Main.java" %>
 </head>
 
 <body>
@@ -39,6 +40,15 @@
 		<h1>
 			Registration
 		</h1>
+		Login Name: <input type="text" id="loginNameTextBox"> <br>
+		Password: <input type="text" id="passwordTextBox"> <br>
+		User Type (Uber User = UU, Uber Driver = UD): <input type="text" id="loginNameTextBox"> <br>
+		<%!
+		
+
+
+
+		%>
 	</div>
 
 	<div class="footer">
