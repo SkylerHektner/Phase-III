@@ -39,6 +39,8 @@
 		<h1>
 			Find Degrees of Seperation
 		</h1>
+
+		<p>Unfortunately this feature was cancelled by our project administrator due to time constraints.</p>
 	</div>
 
 	<div class="footer">

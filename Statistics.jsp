@@ -39,6 +39,7 @@
 		<h1>
 			Statistics
 		</h1>
+		<p>Unfortunately this feature was cancelled by our project administrator due to time constraints.</p>
 	</div>
 
 	<div class="footer">
